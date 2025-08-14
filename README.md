@@ -15,7 +15,6 @@ Creación de la API REST usando Spring: El objetivo es crear una API que permita
 
 Nuestra API va a centrarse específicamente en los tópicos, y debe permitir a los usuarios:
 
-Herramientas: Se utilizará Insomnia para probar la API (ya que no tendrá interfaz gráfica).
 
 ### ✨Requisitos Funcionales  ✨
 - Listar todos los tópicos existentes.
@@ -28,6 +27,7 @@ Herramientas: Se utilizará Insomnia para probar la API (ya que no tendrá inter
 
 Es lo que conocemos comúnmente como CRUD (CREATE, READ, UPDATE, DELETE) . Implica la Implementación de una base de datos para la persistencia de la información; Servicio de autenticación/autorización para restringir el acceso a la información.
 
+Herramientas: Se utilizará Insomnia para probar la API (ya que no tendrá interfaz gráfica).
 
 ## Visuales :mage_woman:
 
